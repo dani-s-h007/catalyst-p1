@@ -10,7 +10,7 @@ A clean, minimalist, and fully responsive personal portfolio built to showcase f
 * **Interactive Elements:** Features a dynamic JavaScript greeting that updates based on the user's local time, alongside a simulated contact form.
 * **Semantic Structure:** Organized HTML5 layout for improved accessibility, clean code readability, and easy maintainability.
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **HTML5**
 * **CSS3** 
